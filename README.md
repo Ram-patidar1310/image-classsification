@@ -1,1 +1,1 @@
-# image-classsification
+#multiclass image classsification
